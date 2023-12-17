@@ -14,3 +14,7 @@ and has a design of GUI, the tasks and processes for completing the project can 
 6. Image function
 7. Lose function
 8. Win function
+
+# Block Diagram
+![Block diag](https://github.com/AlaaTaha32/Hangman-game/assets/154026967/7fb56d2a-e9a5-4f7b-b1d9-b3b222c06b63)
+
